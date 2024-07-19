@@ -2,6 +2,3 @@ Git-branch
 aaaaa
 
 --bbb_branch添加
-
-
-master-aaa-bbb
